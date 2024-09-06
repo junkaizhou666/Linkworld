@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+*.swp
+*.lock
+
+# Xcode
+DerivedData/
+build/
+xcuserdata/
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+
+# CocoaPods
+Pods/
+Podfile.lock
